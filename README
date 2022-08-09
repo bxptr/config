@@ -1,0 +1,9 @@
+config
+======
+
+configuration files for my linux system
+
+clone and symlink to $HOME to use
+
+not everything was installed with `brew` and most were through `apt` or building
+from source
